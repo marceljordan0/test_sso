@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/test_sso",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Marcel Jordan",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "adnanhussainturki/microsoft-api-php": "^0.03.0"
+
+  }
+}
